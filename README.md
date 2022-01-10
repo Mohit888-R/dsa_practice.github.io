@@ -4,14 +4,15 @@ Into this we will add topics like
 1. DATA STRUCTURE
     1. array,
     2. linked list
-    3. stack
-    4. queue
-    5. binary tree
-    6. binary search tree
-    7. heap 
-    8. hashing 
-    9. graph
-    10. matrix
+    3. https://github.com/Mohit888-R/dsa_practice.github.io/blob/main/mohit.cpp
+    4. stack
+    5. queue
+    6. binary tree
+    7. binary search tree
+    8. heap 
+    9. hashing 
+    10. graph
+    11. matrix
 3. ALGORITHMS
     1. sorting and seaching
     2. greedy algo
